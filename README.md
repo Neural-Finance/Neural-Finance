@@ -3,7 +3,6 @@
 
 <br/>
 <br/>
-<br/>
 
 1.Basic usage about tensorflow, if you are familar with it, you can skip it.
 
@@ -13,7 +12,6 @@
 
 4.Convoluntional-neural-network, usage and its application in finance.
 
-<br/>
 <br/>
 <br/>
 
