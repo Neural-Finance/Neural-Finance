@@ -1,5 +1,5 @@
 # Neural-Finance
-【State of the art】using deep learning in quantitative finance
+**【State of the art】using deep learning in quantitative finance**
 
 1.Basic usage about tensorflow, if you are familar with it, you can skip it.
 
