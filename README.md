@@ -1,7 +1,7 @@
 # Neural-Finance
 **【State of the art】using deep learning in quantitative finance**
 
-It's html files, please remember to download it and open it with browser. Most part of this document is writen in English, but due to the time limitation, some part was writen in Chinese.
+They are all html files, please remember to download it and open it with browser. Most part of this document is writen in English, but due to the reference written in Chises tier-1 company, some part was writen in Chinese. If the descriptions written in Chinses, I will write a sentence in English to describe it. 
 
 <br/>
 
@@ -22,6 +22,6 @@ It's html files, please remember to download it and open it with browser. Most p
 **Due to the academic innovation and alpha decay, I can't show more details about the experiments. If you have same interests and want to know more about the details, please feel free to contact me.**
 
 
-**【Brief View】**
-![image](https://github.com/Blabala/Neural-Finance/blob/master/070416024600_00_06.jpg)
+**【Overview】**
+![image](https://github.com/Blabala/Neural-Finance/blob/master/Overview.png)
 
