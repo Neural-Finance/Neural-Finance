@@ -29,7 +29,7 @@ They are all html files, please remember to download it and open it with browser
 ![image](https://github.com/ThuAlexFang/Neural-Finance/blob/master/image/overview3.JPG)
 ![image](https://github.com/ThuAlexFang/Neural-Finance/blob/master/image/overview4.JPG)
 
-**I make a update on Feb 20, 2020. It's my new, shallow but interesting idea about AI and Quant. **
+**I make a update on Feb 20, 2020. It's my new, shallow but interesting idea about AI and Quant.**
 ![image](https://github.com/Neural-Finance/Neural-Finance/blob/master/image/NeuralFinance.png)
 
 **If you have intrested in my work and interested in AI and Quant, please follow me and give me a star. I will update my work if I have time, opportunity. And the most important part is that many of my work can't be shared, I have signed Non-Disclosure Agreement to some tier1 company. For some work, if I have the right, I will upload them.**
