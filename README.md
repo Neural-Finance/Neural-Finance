@@ -19,9 +19,6 @@ They are all html files, please remember to download it and open it with browser
 
 **I am pennultimate graduate student in Tsinghua University, have training both in CS department's and Business school's quantitative lab. I really hope that we can be the state of the art in neural finance. (deep learning + finance)**
 
-**Due to the academic innovation and alpha decay, I can't show more details about the experiments. If you have same interests and want to know more about the details, please feel free to contact me.**
-
-
 **【Overview】**
 
 ![image](https://github.com/ThuAlexFang/Neural-Finance/blob/master/image/overview1.jpg)
