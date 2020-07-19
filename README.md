@@ -6,19 +6,19 @@ They are all html files, please remember to download it and open it with browser
 <br/>
 
 ```
-1.Basic usage about tensorflow, if you are familar with it, you can skip it.
+1. Tensorflow Basic Tutorial.html: basic usage about tensorflow, if you are familar with it, you can skip it.
 ```
 
 ```
-2.Fully-connected-layer, usage and its application in finance.
+2. Fully-connected-layer.html: fully-connected-layer's usage and its application in finance.
 ```
 
 ```
-3.Recurrent-neural-network, usage and its application in finance.
+3. Recurrent neural network.html: recurrent-neural-network, usage and its application in finance.
 ```
 
 ```
-4.Convoluntional-neural-network, usage and its application in finance.
+4. Convolutional-neural-network.html: convoluntional-neural-network, usage and its application in finance.
 ```
 
 <br/>
