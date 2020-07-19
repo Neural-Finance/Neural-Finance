@@ -18,11 +18,13 @@ They are all html files, please remember to download it and open it with browser
 **I am pennultimate graduate student in Tsinghua University, have training both in CS department's and Business school's quantitative lab. I really hope that we can be the state of the art in neural finance. (deep learning + finance)**
 
 **【Overview】**
-
+**Before July 2019**
 ![image](https://github.com/ThuAlexFang/Neural-Finance/blob/master/image/overview1.jpg)
 ![image](https://github.com/ThuAlexFang/Neural-Finance/blob/master/image/overview2.JPG)
 ![image](https://github.com/ThuAlexFang/Neural-Finance/blob/master/image/overview3.JPG)
 ![image](https://github.com/ThuAlexFang/Neural-Finance/blob/master/image/overview4.JPG)
+
+**Before Dec 2019**
 ![image](https://github.com/ThuAlexFang/Neural-Finance/blob/master/image/overview5.JPG)
 
 **If you are intrested in my work and interested in AI and Quant, please follow me and give me a star. I will update my work if I have time, opportunity. And the most important part is that many of my work can't be shared, I have signed Non-Disclosure Agreement to some tier1 company. For some work, if I have the right, I will upload them.**
