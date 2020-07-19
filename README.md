@@ -23,7 +23,10 @@ They are all html files, please remember to download it and open it with browser
 ![image](https://github.com/ThuAlexFang/Neural-Finance/blob/master/image/overview2.JPG)
 ![image](https://github.com/ThuAlexFang/Neural-Finance/blob/master/image/overview3.JPG)
 ![image](https://github.com/ThuAlexFang/Neural-Finance/blob/master/image/overview4.JPG)
+![image](https://github.com/ThuAlexFang/Neural-Finance/blob/master/image/overview5.JPG)
 
 **If you are intrested in my work and interested in AI and Quant, please follow me and give me a star. I will update my work if I have time, opportunity. And the most important part is that many of my work can't be shared, I have signed Non-Disclosure Agreement to some tier1 company. For some work, if I have the right, I will upload them.**
 
-**But the disappointmenting thing is that, I have to sign NDA (non-disclosure agreement) in my latest two internships, nothing have been updated since the late 2019, sorry for that**
+**But the disappointmenting thing is that, I have to sign strict NDA (non-disclosure agreement) in my latest two internships, nothing have been updated since the late 2019, sorry for that**
+
+
