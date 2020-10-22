@@ -6,7 +6,7 @@ They are all html files, please remember to download it and open it with browser
 <br/>
 
 ```
-1. Tensorflow Basic Tutorial.html: basic usage about tensorflow, if you are familar with it, you can skip it.
+1. Tensorflow Tutorial.html: basic usage about tensorflow, if you are familar with it, you can skip it.
 ```
 
 ```
