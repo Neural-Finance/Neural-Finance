@@ -39,6 +39,9 @@ They are all html files, please remember to download it and open it with browser
 
 If you are intrested in my work and interested in AI and Quant, please follow me and give me a star. I will update my work if I have time, opportunity. And the most important part is that many of my work can't be shared, I have signed Non-Disclosure Agreement to some tier1 company. For some work, if I have the right, I will upload them.
 
-**But the disappointmenting thing is that, I have to sign strict NDA (non-disclosure agreement) in my latest two internships, nothing have been updated since the late 2019, sorry for that....**
+**But the disappointing thing is that, I have to sign strict NDA (non-disclosure agreement) in my latest two internships, nothing have been updated since the late 2019, sorry for that....**
+
+**Update on Jan 2021**
+I decide to update this repository later. Definitely I can't upload anything from company, but for sth out of the business, I will ask for approve from the compliance officer for each update before I update it. So please give me more patience. Thanks.
 
 
