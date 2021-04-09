@@ -41,7 +41,7 @@ If you are intrested in my work and interested in AI and Quant, please follow me
 
 **But the disappointing thing is that, I have to sign strict NDA (non-disclosure agreement) in my latest two internships, nothing have been updated since the late 2019, sorry for that....**
 
-**【Update on Jan 2021】**
+**【Update in Jan 2021】**
 
 I decide to update this repository later. Definitely I can't upload anything from company, but for sth out of the business, I will ask for approve from the compliance officer for each update before I update it. So please give me more patience. Thanks.
 
