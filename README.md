@@ -28,13 +28,13 @@ They are all html files, please remember to download it and open it with browser
 
 **【Before July 2019】**
 
-![image](https://github.com/ThuAlexFang/Neural-Finance/blob/master/image/overview1.jpg)
+![image](https://github.com/Neural-Finance/Neural-Finance/blob/master/image/overview1.jpg)
 
-![image](https://github.com/ThuAlexFang/Neural-Finance/blob/master/image/overview2.JPG)
+![image](https://github.com/Neural-Finance/Neural-Finance/blob/master/image/overview2.JPG)
 
-![image](https://github.com/ThuAlexFang/Neural-Finance/blob/master/image/overview3.JPG)
+![image](https://github.com/Neural-Finance/Neural-Finance/blob/master/image/overview3.JPG)
 
-![image](https://github.com/ThuAlexFang/Neural-Finance/blob/master/image/overview4.JPG)
+![image](https://github.com/Neural-Finance/Neural-Finance/blob/master/image/overview4.JPG)
 
 **【Before Dec 2019】**
 
